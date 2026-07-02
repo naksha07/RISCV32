@@ -1,0 +1,24 @@
+# Compiled files
+processor_sim
+*.out
+*.vvp
+
+# Waveforms
+*.vcd
+*.fst
+
+# GTKWave
+*.gtkw
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
